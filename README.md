@@ -1,11 +1,12 @@
 # 💫 About Me:
-Final-year Computer Science undergraduate with a strong foundation in software development and problem solving. Skilled in building responsive and efficient Single Page Applications (SPAs) using HTML, CSS, and JavaScript, with a focus on creating seamless user experiences and optimized performance.
+Final-year Computer Science undergraduate with a strong foundation in software development, problem solving, and Python programming. Proficient in Python fundamentals, including data types, control flow, functions, object-oriented programming, and Python data structures, with a focus on writing clean, efficient, and maintainable code.
 
-Possesses strong knowledge of Data Structures and Algorithms (DSA), enabling the design of efficient, scalable, and well-optimized solutions to complex problems. Experienced in working with relational databases using SQL for structured data management and querying.
+Possesses strong knowledge of Data Structures and Algorithms (DSA), enabling the design of efficient, scalable, and optimized solutions to complex problems. Experienced in working with relational databases using SQL for structured data management, querying, and manipulation.
 
-Proficient in Python programming, with hands-on experience in writing clean and maintainable code. Currently exploring Data Science at a beginner level, including basic data analysis, visualization, and understanding core concepts of machine learning.
+Proficient in NumPy and Pandas for data manipulation, analysis, and working with structured datasets. Currently exploring Data Science at a beginner level, including data preprocessing, exploratory data analysis, data visualization, and fundamental machine learning concepts.
 
-Adaptable and detail-oriented, with a continuous learning mindset and a keen interest in applying technical skills to real-world challenges and innovative projects.
+Adaptable and detail-oriented, with a continuous learning mindset and a keen interest in applying Python and data-driven techniques to real-world challenges and innovative projects.
+
 
 
 
